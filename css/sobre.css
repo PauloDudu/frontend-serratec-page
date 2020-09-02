@@ -1,7 +1,16 @@
+
+.logo{
+    background-color:  #333A40;
+}
+.nav-pills .nav-link.active, .nav-pills .show >.nav-link {
+    background-color: #808184;
+}
+
 .page-footer {
 
     left: 0;
     bottom: 0;
+    margin-bottom: 0;
     width: 100%;
     background-color: rgb(52, 58, 64);
     color: white;
