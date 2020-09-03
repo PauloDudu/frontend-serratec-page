@@ -1,9 +1,12 @@
 (() => {
-    let email = document.querySelector('#email');
+    // Captura o input id email do contato.html
+    let email = document.querySelector('#');
+    // Captura o input com id whatsapp do contato.html
     let whatsapp = document.querySelector('#whatsapp');
+    // Captura o botão id enviar do contato.html
     let enviar = document.querySelector('#enviar');
 
-
+    // Adicionar um "Cara pra receber o click - escutar o evento click sobre o botao enviar"
     enviar.addEventListener('click', (e) => {
         e.preventDefault();
         let regexEmail = /^[a-z0-9.]+@[a-z0-9]+\.[a-z]+/i;

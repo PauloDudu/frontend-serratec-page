@@ -9,6 +9,7 @@
         fontColorLightMode: '#000',
         bgDarkMode: '#171716'
     }
+    
     var body = document.querySelector('body');
     let cards = document.querySelectorAll('.card');
     let logos = document.querySelectorAll('.logo');
