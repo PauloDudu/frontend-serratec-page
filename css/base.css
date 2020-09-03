@@ -99,11 +99,10 @@ img.imagem-turma {
 }
 
 .page-footer {
-    position: sticky;
+    position: relative;
     left: 0;
     bottom: 0;
     margin-bottom: 0;
     width: 100%;
-    color: var(--color-font-primary);
     text-align: center;
 }

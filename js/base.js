@@ -14,6 +14,7 @@
     let logos = document.querySelectorAll('.logo');
     let nav = document.querySelector('.navbar');
     var btn = document.querySelector('#switch1');
+    var footer = document.querySelector('footer');
 
     let time = new Date();
     let hora = time.getHours();
