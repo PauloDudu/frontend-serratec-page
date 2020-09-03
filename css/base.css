@@ -2,18 +2,11 @@
     --color-primary: #124EB0;
     --color-secondary: #0B3270;
     --color-button-secundary: #808184;
-
     --color-font-primary: #E8EBE6;
-
-
-    --success-alert: #1AD937;
-    /*verdinho claro */
-
+    --success-alert: #1AD937;/*verdinho claro */
     --bg-dark: #232423;
     --bg-ligth-mode: #E8EBE6;
-
     --bg-dark-mode: #171716;
-
     --danger-alert: #BB1105;
 }
 
