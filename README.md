@@ -9,3 +9,7 @@
 :boy: <a href="https://github.com/BrGUILHERMEHenrique">Guilherme Henrique </a></br>
 :boy: <a href="https://github.com/TonyMEsteves">Tony</a></br>
 :boy: <a href="https://github.com/PauloDudu">Paulo Eduardo</a></br>
+
+
+# Gif Preview
+![Gif do projeto](https://github.com/BrGUILHERMEHenrique/frontend-serratec-page/blob/master/img/Mygif1.0.gif)
